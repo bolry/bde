@@ -132,6 +132,10 @@ BSLS_IDENT("$Id$")
 #include <bdlscm_version.h>
 #endif
 
+#ifndef INCLUDED_BSLS_EXCEPTIONUTIL
+#include <bsls_exceptionutil.h>
+#endif
+
 #ifndef INCLUDED_BDLDFP_DECIMALIMPUTIL_DECNUMBER
 #include <bdldfp_decimalimputil_decnumber.h>
 #endif
